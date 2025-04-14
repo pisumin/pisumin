@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there 👋
+
+🌸 I'm in my second year of a master's program in Information Technology.
+🌸 I'm currently studying UAV trajectory optimization at the university.
+🌸 I'm currently learning the Convex Optimization and Python etc...
+
 
 <!--
 **pisumin/pisumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
